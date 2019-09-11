@@ -1,2 +1,5 @@
-# spring-boot-jib-docker
-Example of jib maven plugin configuration for building docker images
+# Spring Boot project with Jib Maven Plugin
+
+Example of Spring Boot project with [Jib Maven Plugin](https://github.com/GoogleContainerTools/jib) configured. 
+
+![ARIMA Software Design](https://arima.eu/arima-claim.png)
